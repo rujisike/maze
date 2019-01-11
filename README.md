@@ -1,0 +1,2 @@
+# maze
+A little maze.
